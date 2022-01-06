@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main data
 second
 f
@@ -5,3 +6,6 @@ k
 dd
 
 dd
+=======
+server data
+>>>>>>> 58948c61328dc2e572468e4e87200266d7661f60
